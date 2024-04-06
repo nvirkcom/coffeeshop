@@ -1,0 +1,53 @@
+.background {
+  background-image: url("./../assets/images/coffee-circle.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 700px;
+  width: 100%;
+}
+
+.description {
+  font-style: italic;
+  text-align: left;
+  width: 497px;
+}
+
+.light-gray {
+  background-color: #f7f7f7;
+}
+
+.nitro {
+  color: #393939;
+  text-decoration: none;
+}
+
+.nitro-pink {
+  background-color: #fff0ed;
+}
+
+.price {
+  color: #5bacc3;
+}
+
+.sub-navigation {
+  background-color: #393939;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.sub-navigation a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.sub-navigation ul {
+  list-style-type: none;
+}
+
+.title-box {
+  background-color: #393939;
+  color: #fff;
+  height: 200px;
+  text-align: center;
+  width: 300px;
+}
